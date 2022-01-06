@@ -1,0 +1,21 @@
+
+HOW to USE
+
+1: install termux on android/
+follow these commands.
+pkg update.
+apt upgrade -
+pkg install git
+pkg install python
+pkg install python2
+pip install requests && pip2 install requests
+pip install mechanize &&  pip2 install mechanize
+pip install bs4 && pip2 install bs4
+then clone this tool from following command  -->git clone URL
+the goto the folder and make a file with name login.txt and open it and past your facebook token and save it.
+then run command python2 Scrapper.py.
+
+
+the tool is now running.
+
+if you get any error or unable to reproduce then tell me.
